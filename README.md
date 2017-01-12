@@ -1,0 +1,2 @@
+# contestlog
+hamradio cotest weblog
